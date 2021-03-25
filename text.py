@@ -26,7 +26,7 @@ def countword()->int:
             j=len(word_2)+1
             sentence=sentence[j:len(sentence)]  
     return num
-      
-print(countword())    
+     
+    
 
 
